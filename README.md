@@ -30,6 +30,7 @@
 - 👥 Events Head at **IEEE ITS VIT**, contributing to leadership and cross-functional coordination.
 - 🌱 Exploring Machine Learning, Data Engineering, System Design, Cloud Computing, and scalable backend architectures.
 - 🧠 Interested in Software Engineering, AI/ML Engineering, and Data Engineering.
+- 📫 Reach me at: nehalss267@gmail.com
 - 👯 Open to collaborating on AI, Machine Learning, Backend Development, and Open Source projects.
 
 ---
@@ -177,8 +178,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nehalss267&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehalss267&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nehalss267&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -190,8 +190,10 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nehalss267&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph-delta.vercel.app/graph?username=nehalss267&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
+
+
 
 ---
 
