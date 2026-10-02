@@ -94,21 +94,6 @@
 
 ---
 
-## 📊 Product Analytics Dashboard
-
-**An interactive business intelligence dashboard for analyzing sales, product performance, seller trends, and inventory.**
-
-**Tech Stack:** Excel • PostgreSQL • SQL • Power BI
-
-- Designed and optimized 8 analytical SQL views using joins, aggregations, CTEs, and window functions.
-- Analyzed sales performance, product ratings, discount trends, seller performance, inventory levels, and return policies.
-- Performed data cleansing, transformation, normalization, and validation using Excel and PostgreSQL.
-- Built interactive Power BI dashboards with KPI cards, slicers, drill-throughs, and dynamic visualizations.
-
-**Key Concepts:** SQL Analytics • Data Cleaning • Data Transformation • Business Intelligence • Data Visualization
-
----
-
 
 ## 💻 Tech Stack
 
