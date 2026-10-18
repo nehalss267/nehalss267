@@ -77,21 +77,18 @@
 **Results:** 0.84 ROC-AUC • 5+ Behavioral Signals 
 
 ---
+## 📊 Product Analytics Dashboard
 
-## 🏢 Society Maintenance & Management Platform
+**An interactive business intelligence dashboard for analyzing sales, product performance, seller trends, and inventory.**
 
-**A full-stack platform for managing residential society operations, resident services, and staff workflows.**
+**Tech Stack:** Excel • PostgreSQL • SQL • Power BI
 
-**Tech Stack:** Next.js • React • Spring Boot • MongoDB • Redis • Kafka • JUnit
+- Designed and optimized 8 analytical SQL views using joins, aggregations, CTEs, and window functions.
+- Analyzed sales performance, product ratings, discount trends, seller performance, inventory levels, and return policies.
+- Performed data cleansing, transformation, normalization, and validation using Excel and PostgreSQL.
+- Built interactive Power BI dashboards with KPI cards, slicers, drill-throughs, and dynamic visualizations.
 
-- Architected a full-stack platform with a 56-endpoint REST API and MongoDB persistence.
-- Implemented role-specific workflows for residents and staff.
-- Built JWT authentication and four-role authorization.
-- Developed complaint tracking, SLA-based overdue detection, and audit logging.
-- Implemented automated API and end-to-end testing for authentication, authorization, CRUD operations, and security scenarios.
-
-**Results:** 56 REST API Endpoints • 37 Tests • 66+ End-to-End Checks • 4 User Roles
-
+**Key Concepts:** SQL Analytics • Data Cleaning • Data Transformation • Business Intelligence • Data Visualization
 ---
 
 
