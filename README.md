@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nehal Solanki</h1>
 
 <h3 align="center">
-  Aspiring Software Engineer | AI/ML Enthusiast | Fullstack & Data Engineering
+ Hands On Experience in:  Software Engineering | AI/ML | Fullstack & Data Engineering
 </h3>
 
 <p align="center">
